@@ -59,12 +59,14 @@ to fork this and add a site.
 * https://nrafunded.us/
 * https://culturedcode.com/
 * https://workflow.is/
-* https://ifttt.com/
 * https://www.literatureandlatte.com/
 * http://airmailapp.com/
+* http://builtbysnowman.com/checkmark/
+* http://www.qrayon.com/
 * http://cssnext.io/
 * http://electron.atom.io/
 * https://atom.io/
+* http://emojipedia.org/
 * https://marco.org/
 * http://inessential.com/
 * https://dribbble.com/
@@ -80,9 +82,9 @@ to fork this and add a site.
 * https://domainr.com/
 * https://iwantmyname.com/
 * http://www.leandomainsearch.com/
-* https://www.snapchat.com/
 * https://telegram.org/
 * http://www.openstreetmap.org/
+* http://supertop.co/
 * http://www.ebay.com/
 * http://postcss.parts/
 * http://sharingbuttons.io/
@@ -92,4 +94,3 @@ to fork this and add a site.
 * https://www.edwardtufte.com/
 * https://messenger.com/
 * https://www.whatsapp.com/
-* http://www.qrayon.com/
