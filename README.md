@@ -94,3 +94,5 @@ to fork this and add a site.
 * https://www.edwardtufte.com/
 * https://messenger.com/
 * https://www.whatsapp.com/
+* https://www.uniboxapp.com/
+* http://www.1button.co/
